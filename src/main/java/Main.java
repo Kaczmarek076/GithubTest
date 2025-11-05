@@ -3,4 +3,10 @@ public class Main {
         System.out.println("Hello D25");
 
     }
+
+
+    public static int multiply (int factor1, int factor2){
+        return factor1*factor2;
+    }
+
 }
