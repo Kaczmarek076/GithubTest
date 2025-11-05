@@ -19,8 +19,21 @@ public class Calculator {
      * @return
      */
     public static int multiply (int factor1, int factor2){
+
         return factor1*factor2;
     }
+
+
+    /**
+     * Method to divide two numbers
+     * @param factor1
+     * @param factor2
+     * @return
+     */
+    public static int divide (int factor1, int factor2){
+        return factor1/factor2;
+    }
+
 
 
 }
