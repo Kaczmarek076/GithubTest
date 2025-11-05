@@ -1,6 +1,5 @@
 public class Calculator {
 
-
     /**
      * Hella coll method to add numbers
      * @param a
@@ -12,6 +11,7 @@ public class Calculator {
     }
 
 
+
     /**
      * Cool new multiplayer feature
      * @param factor1
@@ -19,9 +19,9 @@ public class Calculator {
      * @return
      */
     public static int multiply (int factor1, int factor2){
-
         return factor1*factor2;
     }
+
 
 
     /**
